@@ -1,6 +1,0 @@
-{
-    "wake_word_sound": "Desktop/NEWJOSHWITHAI/aibeepmain.mp3",
-    "hide_me_script": "Desktop/NEWJOSHWITHAI/functionality_and_abilites/hidemyipwithtorJOSH.sh",
-    "password_checker": "Desktop/NEWJOSHWITHAI/functionality_and_abilites/passwordcheckvoiceJOSH.py",
-    "spider_crawler": "Desktop/NEWJOSHWITHAI/functionality_and_abilites/SpiderCrawlerMainJOSH.py"
-}
