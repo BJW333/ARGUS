@@ -1,6 +1,7 @@
 This is a program which is a AI assistant it runs on MacOS but can be easily adjusted to run on Windows
 
 Overview
+###################
 
 ARGUS is a personal AI assistant built using Python and TensorFlow. It is designed to perform various tasks such as recognizing wake words, interacting through natural language, performing web searches, opening and closing applications, retrieving news, and more. It also includes a dynamic reward system that evaluates responses for relevance, intent matching, sentiment alignment, and other metrics to improve its conversational abilities.
 
@@ -8,7 +9,9 @@ ARGUS - Advanced Response and Guidance User System
 
 Its voice activated when you say the wake word "ARGUS"
 
+
 Features
+###################
 
 Wake Word Detection: ARGUS listens for a specific wake word ("Argus") and activates upon detecting it.
 
