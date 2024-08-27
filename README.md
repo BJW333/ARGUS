@@ -18,6 +18,7 @@ Features
 Wake Word Detection: ARGUS listens for a specific wake word ("Argus") and activates upon detecting it.
 
 Conversational AI: ARGUS can have natural language conversations with users and respond to queries.
+
 Web Search: ARGUS can perform Google searches based on user queries.
 
 Wikipedia Search: ARGUS can search Wikipedia for information about people or specific topics.
