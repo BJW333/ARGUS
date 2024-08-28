@@ -12,5 +12,4 @@ Answers.txt is the outputs the bot may give out
 
 The model will auto save once trained
 
-U must have a open api key to use the ai
 
