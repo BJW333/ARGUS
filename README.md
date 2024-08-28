@@ -37,6 +37,12 @@ Dynamic Reward System: ARGUS evaluates the quality of its responses based on rel
 
 Manual Model Adjustment: The user can manually adjust the chatbot's model, train it with new feedback data, and save the model for future use.
 
+Install
+-----------------------
+To use ARGUS you have to clone the whole repo and then install and change anything require to run ARGUSMAIN.py these changes most likely being pip installs and file path changes.
+
+Then just run python3.10 ARGUSMAIN.py in your terminal.
+
 Contribution
 -----------------------
 Feel free to fork this repository and submit pull requests. Any contributions to improve ARGUS are welcome!
