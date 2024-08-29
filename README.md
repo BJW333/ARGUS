@@ -1,5 +1,5 @@
-
-
+ARGUS
+-----------------------
 
 Overview
 -----------------------
@@ -36,6 +36,8 @@ Custom Tools: ARGUS can run custom scripts like Spider Crawler and Password Chec
 Dynamic Reward System: ARGUS evaluates the quality of its responses based on relevance, intent matching, and sentiment analysis, adjusting its behavior accordingly.
 
 Manual Model Adjustment: The user can manually adjust the chatbot's model, train it with new feedback data, and save the model for future use.
+
+And more...
 
 Install
 -----------------------
