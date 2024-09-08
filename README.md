@@ -45,6 +45,11 @@ To use ARGUS you have to clone the whole repo and then install and change anythi
 
 Then just run python3.10 ARGUSMAIN.py in your terminal.
 
+
+Coming Soon
+-----------------------
+Object Recognition System this system will give ARGUS the ability to in real time see objects and recognize them for what they are.
+
 Contribution
 -----------------------
 Feel free to fork this repository and submit pull requests. Any contributions to improve ARGUS are welcome!
@@ -54,4 +59,6 @@ License
 This project is licensed under the MIT License.
 
 
-this project is still a work in progress
+This project is still a work in progress!
+
+
