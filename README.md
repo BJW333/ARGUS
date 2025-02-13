@@ -4,7 +4,7 @@ ARGUS
 Overview
 -----------------------
 
-ARGUS is a personal AI assistant built using Python and TensorFlow. It is designed to perform various tasks such as recognizing wake words, interacting through natural language, performing web searches, opening and closing applications, retrieving news, and more. It also includes a dynamic reward system that evaluates responses for relevance, intent matching, sentiment alignment, and other metrics to improve its conversational abilities.
+ARGUS is a personal AI assistant built using Python and TensorFlow. It is designed to perform various tasks such as recognizing wake words, interacting through natural language, performing web searches, opening and closing applications, retrieving news, and more. It also includes a dynamic reward system that evaluates responses for relevance, intent matching, sentiment alignment, and a genetic algorithm that enhances its responses using mutation and crossover. There are other metrics that improve ARGUSs conversational abilities also.
 
 ARGUS - Advanced Response and Guidance User System
 
