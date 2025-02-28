@@ -1,0 +1,1616 @@
+[
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a few new projects one of them",
+        "bot_response": "that's very exciting to hear what are they about",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "what's up with you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what's up what can I help you with",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I'm starting a few new projects that are very exciting",
+        "bot_response": "that's exciting to hear what are they tell me a little bit about them",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I need to manually adjust the model",
+        "bot_response": "we should figure out a solution",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "how can I assist you today",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting new projects",
+        "bot_response": "What would you like to know",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a few new projects",
+        "bot_response": "what are the projects that you're starting",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well what do you need help with today",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I need to manually adjust the model",
+        "bot_response": "I don't understand",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much how are you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what's up how are you today",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what do you want to talk about",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What would you like to know",
+        "reward": 0,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What would you like to know",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat How have things been for you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today I'm starting a new project",
+        "bot_response": "thats very exciting to hear what are they about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": -1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "describe Libby Dunn in two sentences",
+        "bot_response": "that's interesting I've never heard of her",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up bro",
+        "bot_response": "what can I help you with",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what are you curious about today",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "I'm doing well how are you what are you working on today",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much how are you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much how are you I'm",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what are you curious about today",
+        "reward": -1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I shall let you in the house",
+        "bot_response": "Ok lets develop a plan to help you organize yourself",
+        "reward": -1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 1,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what's up with you",
+        "reward": 1,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "Its important to take things one step at a time Lets explore whats been overwhelming you",
+        "reward": -2,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "Im sorry to hear that Let me know how I can assist",
+        "reward": -2,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 6,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "I am doing well how about you",
+        "reward": 5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you is there anything on your mind",
+        "reward": -20,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": -20,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much I'm happy to help you with anything you need",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much how are you",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 30,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up lets catch up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm working on some interesting projects",
+        "bot_response": "Is there anything else I can help with",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you is there anything on your mind",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today how are you today how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to provide information What are you curious about",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm working on some new projects and I need some information",
+        "bot_response": "You need to take everything step by step and you should become less stressed out",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm feeling a little tired today but I have a lot to work on what should I do",
+        "bot_response": "I'm sorry to hear that is there any way I could help you achieve what you need to do",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": -20,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up what's up",
+        "bot_response": "nothing much is there anything I can help with",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what's up with you",
+        "reward": -25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what's up with you",
+        "reward": -25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "OK Google what's up",
+        "bot_response": "I'm here if you need me what's up with you",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "See you around",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what's up what can I help you with",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much how are you",
+        "reward": -25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Just here ready to assist What can I do for you",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up what's up",
+        "bot_response": "Im here to provide clarity What are you curious about",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Not much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you",
+        "bot_response": "Im doing well how are you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "Im doing well how are you is there anything on your mind",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much Im happy to help you with anything you need",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you",
+        "bot_response": "Im doing well how are you",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "what can I help you with",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much whats up with you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "nothing much how are you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Hi",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "not much how about you",
+        "reward": 5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I'm working on some new projects",
+        "bot_response": "that's cool how can I be of assistance",
+        "reward": -25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you going to help you with anything you need",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 35,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I want to start a new project",
+        "bot_response": "how can I help you achieve that goal",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you is there anything on your mind",
+        "reward": 50,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's the weather today",
+        "bot_response": "Is there anything else",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "See you around",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Just here ready to assist What can I do for you",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what is the price of Bitcoin today",
+        "bot_response": "Why are they angry at you",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here when youre ready to chat",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what's up with you today",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what is the price of Microsoft today",
+        "bot_response": "Why are you feeling this way",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "yo how can I be of service",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Not much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here and ready to chat What would you like to discuss",
+        "reward": 15,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats the topic Im here to provide information What are you curious about",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Hi there",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to provide information What are you curious about",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you what can I help you with",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "hello how are you today",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to provide information What are you curious about",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 40,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm feeling stressed out",
+        "bot_response": "Try not to take on too much and take a deep breath",
+        "reward": 40,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's going on with you today",
+        "bot_response": "Try to block out all distractions that you are experiencing",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "that wasn't what I asked",
+        "bot_response": "we should figure out a solution",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Nothing much what do you want to talk about",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Hi",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's going on with you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you doing today",
+        "bot_response": "Im doing well how are you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm doing good I'm doing good",
+        "bot_response": "How can I assist you with",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Im always here to help Whats on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets catch up What s up lets catch up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Hello What s up lets catch up What s up What s up lets catch up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you doing today",
+        "bot_response": "I m set well how are you I am make out considerably how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets catch up What s up",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am answer well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm doing well thanks for asking is there anything new with you",
+        "bot_response": "How can I be of assistance to make you less stressed",
+        "reward": 40,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you",
+        "bot_response": "I m doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you doing today",
+        "bot_response": "Imdoingwellhowareyou",
+        "reward": 5,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up what's up",
+        "bot_response": "I m here to help What s on your mind",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "I m doing well how are you how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today is everything going well",
+        "bot_response": "I m make well how are you",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Not very much how about you",
+        "reward": 35,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "I m get well how are you how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Sup What s up What s up lets catch up Sup What s up lets grab up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing good how about you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm working on a new project would you want in",
+        "bot_response": "i wish you luck Adolescence can be a turbulent time Lets explore ways to put efficaciously i wish you luck",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today is everything going well",
+        "bot_response": "im doing well how about you",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you doing today",
+        "bot_response": "Im doing well how are you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing considerably how about you",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm doing well I'm starting a new project I'm excited",
+        "bot_response": "that's awesome",
+        "reward": 30,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "nothing much what's up with you anything I can help with",
+        "reward": 10,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 40,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you doing today is everything going well",
+        "bot_response": "Im doing well how are you",
+        "reward": 70,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "I'm doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "I'm doing well how are you doing today",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you",
+        "bot_response": "I am doing well how about you is there anything I can help you with",
+        "reward": 5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Whats up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you",
+        "bot_response": "doing well how about you",
+        "reward": 35,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up Your welcome Im forever here to provide information What are you odd about What s up",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "how about you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 85,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "what's up what would you like to know",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you doing today",
+        "bot_response": "I am doing well how about you",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets enamour up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a new project today",
+        "bot_response": "Its important to take things one step at a time Lets explore what s been overwhelming you",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 75,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a new project I'm really excited about",
+        "bot_response": "that's interesting how can I help you with it",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I'm starting a new project that I'm excited about",
+        "bot_response": "that s very exciting to hear what are they about that s very exciting to hear what are they tell me a little",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up I'm starting a new project and I'm really excited about it",
+        "bot_response": "what's up That's so exciting to hear how can I help you",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets catch up Im always here to help What s on your mind",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets catch up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you how are you Im doing well",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today is everything going well",
+        "bot_response": "I understand what would you like to discuss or do",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a new project I'm really excited about",
+        "bot_response": "that's exciting to hear how can I help you with it",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "I'm starting a new project I'm excited about",
+        "bot_response": "that s very exciting to hear what are they tell me a little that s very hard Have you feel more confident",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm starting a new project I'm really excited about",
+        "bot_response": "that's exciting to hear how can I help you",
+        "reward": 20,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you how are you is there anything on your mind",
+        "reward": 70,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up I'm starting a new project I'm really excited about",
+        "bot_response": "that's exciting to hear is there anything I can help you with",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's going on with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 50,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up what are you doing today",
+        "bot_response": "I am doing well how about you Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm excited to start a new project",
+        "bot_response": "You should complete it whenever you deem fit",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s on your mind Im here and operational What s on your mind",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up with you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up lets catch up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Yo what would you like to know",
+        "reward": 20,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you Im doing well how are you",
+        "reward": 45,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What s up",
+        "reward": 75,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "What's up",
+        "reward": 30,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 55,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "Not much what's up",
+        "reward": 10,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm excited to start a new project",
+        "bot_response": "you should complete it whenever you deem fit",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "See you around",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "Im doing well how are you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "I'm really excited I'm starting a new project",
+        "bot_response": "that's good to hear that's exciting how can I be of assistance",
+        "reward": 0,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today what are you up to",
+        "bot_response": "I am doing well how about you",
+        "reward": 25,
+        "flagged_for_retraining": false
+    },
+    {
+        "user_input": "what's going on",
+        "bot_response": "I'm doing well how are you is there anything on your mind I can help with",
+        "reward": -5,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "how are you today",
+        "bot_response": "I'm doing well how are you what have you been up to today",
+        "reward": 25,
+        "flagged_for_retraining": true
+    },
+    {
+        "user_input": "what's up",
+        "bot_response": "not much how about you",
+        "reward": 5,
+        "flagged_for_retraining": true
+    }
+]
