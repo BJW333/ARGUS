@@ -37,7 +37,7 @@ Dynamic Reward System: ARGUS evaluates the quality of its responses based on rel
 
 Manual Model Adjustment: The user can manually adjust the chatbot's model, train it with new feedback data, and save the model for future use.
 
-Code: ARGUS can code for you. Just tell it what you want it to create and it will to the best of its ability using its trained code model.
+Code: ARGUS can code for you. Just tell it what you want it to create and it will to the best of its ability using its trained code model. - https://huggingface.co/bjw333/macosargus-code this is the code model
 
 And more...
 
