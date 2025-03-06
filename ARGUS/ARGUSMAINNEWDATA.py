@@ -247,12 +247,12 @@ class MainWindow(QMainWindow):
             QTextEdit {
                 background-color: #000000;
                 color: #ffffff;
-                font-family: Menlo, Monaco, Courier, monospace;
+                font-family: Menlo, Monaco, monospace;
             }
         """)
         splitter.addWidget(self.output_area)
         
-        splitter.setHandleWidth(2)
+        splitter.setHandleWidth(4)
         splitter.setStyleSheet("QSplitter::handle { background: #222; }")
         
         splitter.setSizes([600, 200]) # orginal values 500 and 100
