@@ -1633,7 +1633,7 @@ def process_user_input(user_input):
             moviechoice = random.choice(goodmovies)
             speak(f"A good movie you could watch is {moviechoice}, {MASTER}")
             
-    elif "what are your skills" or "what can you do" in user_input.lower():
+    elif "what are your skills" in user_input.lower():
         skillsforuse = (
             "-Hi, I am Argus. I can perform various tasks, including:\n"
             "- **General Chat**: I can have conversations and improve over time.\n"
