@@ -1,6 +1,0 @@
-{
-    "wake_word_sound": "Desktop/ARGUS/aibeepmain.mp3",
-    "hide_me_script": "Desktop/ARGUS/functionality_and_abilites/hidemyipwithtorARGUS.sh",
-    "password_checker": "Desktop/ARGUS/functionality_and_abilites/passwordcheckvoiceARGUS.py",
-    "spider_crawler": "Desktop/ARGUS/functionality_and_abilites/SpiderCrawlerMainARGUS.py"
-}
