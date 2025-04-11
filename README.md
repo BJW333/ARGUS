@@ -37,9 +37,9 @@ Dynamic Reward System: ARGUS evaluates the quality of its responses based on rel
 
 Manual Model Adjustment: The user can manually adjust the chatbot's model, train it with new feedback data, and save the model for future use.
 
-Object/Facial Recognition: This system gives ARGUS the ability to see whats around it. It utlizes the users camera and will describe what it sees in real time. It will see objects and recognize them for what they are.
+Object/Facial Recognition: This system gives ARGUS the ability to see whats around it. It utlizes the users camera and will describe what it sees in real time. It will see objects and recognize them for what they are. It uses a trained object/facial recognition model to achieve what is required of the system. - https://huggingface.co/bjw333/ARGUS_obj_person_recog_model this is the object/facial recognition model.
 
-Code: ARGUS can code for you. Just tell it what you want it to create and it will to the best of its ability using its trained code model. - https://huggingface.co/bjw333/macosargus-code this is the code model
+Code: ARGUS can code for you. Just tell it what you want it to create and it will to the best of its ability using its trained code model. - https://huggingface.co/bjw333/macosargus-code this is the code model.
 
 And more...
 
