@@ -4,7 +4,7 @@ ARGUS
 Overview
 -----------------------
 
-ARGUS is a personal AI assistant built using Python and TensorFlow. It is designed to perform various tasks such as recognizing wake words (ARGUS), interacting through natural language conversations, performing web searches, opening and closing applications, retrieving news, and more. ARGUS also incorporates a suite of advanced programming features. Its architecture includes a dynamic reward system that continuously evaluates responses based on relevance, intent matching, and sentiment alignment, while a genetic algorithm employs mutation and crossover techniques to refine and enhance candidate responses. Additionally, ARGUS features a robust sequence-to-sequence conversational model with attention mechanisms, real time audio processing and visualization via a Tkinter GUI, comprehensive logging and data storage for conversation history, and seamless integration with custom scripts and external APIs for tasks like news retrieval, note-taking, and even password breach checking. These components work in harmony to ensure that ARGUS not only responds intelligently but also learns and adapts over time, continually improving its conversational abilities.
+ARGUS is a personal AI assistant built using Python and TensorFlow. It is designed to perform various tasks such as recognizing wake words (ARGUS), interacting through natural language conversations, performing web searches, opening and closing applications, retrieving news, and more. ARGUS also incorporates a suite of advanced programming features. Its architecture includes a dynamic reward system that continuously evaluates responses based on relevance, intent matching, and sentiment alignment, while a genetic algorithm employs mutation and crossover techniques to refine and enhance candidate responses. Additionally, ARGUS features a robust sequence-to-sequence conversational model with attention mechanisms, real time audio processing and visualization via a Tkinter GUI, comprehensive logging and data storage for conversation history, and seamless integration with custom scripts and external APIs for tasks like news retrieval, note-taking, and even password breach checking. ARGUS also has the ability to see utlizing object recognition and facial recognition. These components work in harmony to ensure that ARGUS not only responds intelligently but also learns and adapts over time, continually improving its conversational abilities.
 
 ARGUS - Advanced Response and Guidance User System
 
@@ -37,6 +37,8 @@ Dynamic Reward System: ARGUS evaluates the quality of its responses based on rel
 
 Manual Model Adjustment: The user can manually adjust the chatbot's model, train it with new feedback data, and save the model for future use.
 
+Object/Facial Recognition: This system gives ARGUS the ability to see whats around it. It utlizes the users camera and will describe what it sees in real time. It will see objects and recognize them for what they are.
+
 Code: ARGUS can code for you. Just tell it what you want it to create and it will to the best of its ability using its trained code model. - https://huggingface.co/bjw333/macosargus-code this is the code model
 
 And more...
@@ -46,11 +48,6 @@ Install
 To use ARGUS you have to clone the whole repo and then install and change anything required to run ARGUSMAIN.py these changes most likely being pip installs and file path changes.
 
 Then just run python3.10 ARGUSMAIN.py in your terminal.
-
-
-Coming Soon
------------------------
-Object Recognition System this system will give ARGUS the ability to in real time see objects and recognize them for what they are.
 
 Contribution
 -----------------------
