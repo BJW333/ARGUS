@@ -45,9 +45,9 @@ And more...
 
 Install
 -----------------------
-To use ARGUS you have to clone the whole repo and then install and change anything required to run ARGUSMAIN.py these changes most likely being pip installs and file path changes.
+To use ARGUS you have to clone the whole repo and then install and change anything required to run main.py these changes most likely being pip installs and file path changes.
 
-Then just run python3.10 ARGUSMAIN.py in your terminal.
+Then just run python3.10 main.py in your terminal.
 
 Contribution
 -----------------------
