@@ -1,0 +1,647 @@
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 18:36:31, User Input: what's up, Bot Response: Im doing well how are you feeling this way, Response Time: 12.082091, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 18:46:47, User Input: what's up, Bot Response: Im doing well how are you doing today, Response Time: 9.040715, Reward: 20
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 19:00:29, User Input: what's up, Bot Response: Im doing well how are you feeling disconnected from, Response Time: 11.875223, Reward: 20
+root - INFO - 2025-05-13 19:00:43, User Input: how are you doing today, Bot Response: Im fine howabout, Response Time: 8.194487, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 19:08:53, User Input: what's up, Bot Response: Im good how about you, Response Time: 10.147009, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 19:10:52, User Input: what's up, Bot Response: Im doing well how are you doing today, Response Time: 12.778752, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 19:13:19, User Input: what's up, Bot Response: Im doing well how are you doing today, Response Time: 9.867186, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 19:30:52, User Input: what do you say, Bot Response: Good what were saying, Response Time: 7.601724, Reward: 20
+root - INFO - 2025-05-13 19:31:47, User Input: I'm feeling tired, Bot Response: Why are you feeling this way, Response Time: 10.558721, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+root - INFO - 2025-05-13 23:22:50, User Input: what's up, Bot Response: Im doing well how are you, Response Time: 10.092637, Reward: 20
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_119744) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_132687) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference___call___37213) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_124597) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_EfficientDet-D1_layer_call_and_return_conditional_losses_137540) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_95809) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - WARNING - Importing a function (__inference_bifpn_layer_call_and_return_conditional_losses_97913) with ops with unsaved custom gradients. Will likely fail if a gradient is requested.
+absl - INFO - Fingerprint not found. Saved model loading will continue.
+absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1069
+absl - INFO - SubwordTextEncoder build: trying min_token_count 534
+absl - INFO - SubwordTextEncoder build: trying min_token_count 267
+absl - INFO - SubwordTextEncoder build: trying min_token_count 133
+absl - INFO - SubwordTextEncoder build: trying min_token_count 66
+absl - INFO - SubwordTextEncoder build: trying min_token_count 33
+absl - INFO - SubwordTextEncoder build: trying min_token_count 16
+absl - INFO - SubwordTextEncoder build: trying min_token_count 8
+absl - INFO - SubwordTextEncoder build: trying min_token_count 4
+absl - INFO - SubwordTextEncoder build: trying min_token_count 2
+absl - INFO - SubwordTextEncoder build: trying min_token_count 1
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+absl - WARNING - At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy TF-Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
