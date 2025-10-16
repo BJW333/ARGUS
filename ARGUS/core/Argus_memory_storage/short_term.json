@@ -1,0 +1,62 @@
+[
+  {
+    "user_input": "open Spotify",
+    "bot_response": "It seems that you are deciding whether to open or close Spotify - what is your reasoning?",
+    "reward": 33,
+    "ts": 1759195931.6573188
+  },
+  {
+    "user_input": "open Spotify",
+    "bot_response": "It seems that you are deciding whether to open or close Spotify - what is your reasoning?",
+    "reward": 33,
+    "ts": 1759196408.975553
+  },
+  {
+    "user_input": "what's up",
+    "bot_response": "So what's new? You mentioned a few hobbies in your profile - what's been new or exciting in the world of skiing or tennis lately?",
+    "reward": 28,
+    "ts": 1759196755.9655292
+  },
+  {
+    "user_input": "what's up",
+    "bot_response": "Nice to chat with you again! Since you asked \"what's up\", how about I grab the coffee, and we start with something light? By the way, have you been up to anything exciting recently, like hitting the slopes or playing some tennis ? Nice to chat with you again ! Catch up.",
+    "reward": 14,
+    "ts": 1759197016.253464
+  },
+  {
+    "user_input": "hey write me a paragrpah on the diffrences between the US",
+    "bot_response": "The differences between the United States and other nations! Let's dive into it. It seems you're looking for some insightful commentary. As someone who's familiar with your profile, I'd say we can explore this topic further. From what I gather, you're quite interested in sports, specifically skiing and tennis. Now, regarding the US versus other countries... Well, one major distinction lies in their respective political systems. The United States operates under a federal republic system, whereas others might employ different models, such as parliamentary or authoritarian systems. This difference can significantly impact how laws are enacted and governance functions. Would you like to explore more of these contrasts?",
+    "reward": 8,
+    "ts": 1760129275.868576
+  },
+  {
+    "user_input": "how are you",
+    "bot_response": "Nice to chat with you again! I'm doing well, thanks for asking. Since you asked \"how are you\", let's catch up a bit. You've got a few hobbies mentioned in your profile - what's been new or exciting lately in the world of skiing or tennis?",
+    "reward": 11,
+    "ts": 1760192948.435603
+  },
+  {
+    "user_input": "argus whats up",
+    "bot_response": "So what's new ?",
+    "reward": 21,
+    "ts": 1760193620.366223
+  },
+  {
+    "user_input": "whats up",
+    "bot_response": "Nice to chat with you again! Since you asked \"what's up\", how about I grab the coffee, and we start with something light? By the way, have you been up to anything exciting recently, like hitting the slopes or playing some tennis ? Nice to catch up.",
+    "reward": 14,
+    "ts": 1760193833.7267468
+  },
+  {
+    "user_input": "spotify",
+    "bot_response": "You're deciding whether to open or close Spotify - what's the reasoning behind your decision?",
+    "reward": 33,
+    "ts": 1760198388.169936
+  },
+  {
+    "user_input": "whats up",
+    "bot_response": "Nice to chat with you again! Since you asked \"what's up\", how about I grab the coffee, and we start with something light? By the way, have you been up to anything exciting recently, like hitting the slopes or playing some tennis ? Nice to catch up.",
+    "reward": 14,
+    "ts": 1760563747.952723
+  }
+]
