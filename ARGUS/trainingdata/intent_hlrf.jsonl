@@ -1,0 +1,64 @@
+{"text": "close Spotify", "label": "close", "ts": 1759197652, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "hey write me a paragrpah on the diffrences between the US", "label": "ai_response", "ts": 1760129218, "ml_pred": "ai_response", "ml_conf": 0.3906, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "chinea", "label": "ai_response", "ts": 1760129218, "ml_pred": "crypto_data", "ml_conf": 0.6022, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760192223, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close spotify", "label": "close", "ts": 1760192229, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760192329, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760192439, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close spotify", "label": "close", "ts": 1760192459, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "whats the weather", "label": "weather_data", "ts": 1760192466, "ml_pred": "weather_data", "ml_conf": 0.9998, "rule_pred": "weather_data", "rule_conf": 0.3333}
+{"text": "how are you", "label": "ai_response", "ts": 1760192906, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1760192969, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "argus whats up", "label": "ai_response", "ts": 1760193590, "ml_pred": "searchsomething", "ml_conf": 0.999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760193738, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1760193744, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "close spotify", "label": "close", "ts": 1760193793, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1760193797, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1760193889, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760198353, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close notion", "label": "close", "ts": 1760198364, "ml_pred": "close", "ml_conf": 0.9998, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "spotify", "label": "ai_response", "ts": 1760198364, "ml_pred": "searchsomething", "ml_conf": 0.9998, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open Spotify", "label": "open", "ts": 1760563669, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close Spotify", "label": "close", "ts": 1760563678, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1760563704, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1760719619, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close spotify", "label": "close", "ts": 1760719625, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "close terminal", "label": "close", "ts": 1760719631, "ml_pred": "close", "ml_conf": 0.7396, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "write me a paragrpah on the diffrences between the us and china", "label": "ai_response", "ts": 1760719652, "ml_pred": "crypto_data", "ml_conf": 0.5759, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hi", "label": "ai_response", "ts": 1762318130, "ml_pred": "searchsomething", "ml_conf": 0.9983, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "close Spotify", "label": "close", "ts": 1762318255, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "open Spotify", "label": "open", "ts": 1762318268, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "close Spotify", "label": "close", "ts": 1762318274, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "Hello whats up with you today", "label": "ai_response", "ts": 1763825314, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763834300, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763834431, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1763834451, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1763834458, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763834773, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763834851, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "close spotify", "label": "close", "ts": 1763835001, "ml_pred": "close", "ml_conf": 0.9992, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "what do u think of current china and us relations", "label": "ai_response", "ts": 1763835016, "ml_pred": "searchsomething", "ml_conf": 0.9349, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1763835103, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "Hello", "label": "ai_response", "ts": 1763835486, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763835825, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "Hello how are you today", "label": "ai_response", "ts": 1763835934, "ml_pred": "searchsomething", "ml_conf": 0.9997, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1763835980, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763836300, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "Hello how are you today", "label": "ai_response", "ts": 1763836508, "ml_pred": "searchsomething", "ml_conf": 0.9997, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "Hello how are you today what have you been up to", "label": "ai_response", "ts": 1763836699, "ml_pred": "searchsomething", "ml_conf": 0.9994, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "Hello", "label": "ai_response", "ts": 1763836828, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "Hello whats up", "label": "ai_response", "ts": 1763836942, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "close notion", "label": "close", "ts": 1763836986, "ml_pred": "close", "ml_conf": 0.9998, "rule_pred": "close", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1763837112, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "Hello", "label": "ai_response", "ts": 1763837346, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1763837454, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "open spotify", "label": "open", "ts": 1763837556, "ml_pred": "open", "ml_conf": 0.988, "rule_pred": "open", "rule_conf": 1.0}
+{"text": "whats up", "label": "ai_response", "ts": 1763837561, "ml_pred": "searchsomething", "ml_conf": 0.9999, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763837666, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1763837715, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763838068, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "mfedsf", "label": "ai_response", "ts": 1763838186, "ml_pred": "searchsomething", "ml_conf": 0.9264, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763838831, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "exit", "label": "exit", "ts": 1763838870, "ml_pred": "exit", "ml_conf": 0.9998, "rule_pred": "exit", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763839345, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
+{"text": "hello", "label": "ai_response", "ts": 1763839743, "ml_pred": "searchsomething", "ml_conf": 0.9993, "rule_pred": "ai_response", "rule_conf": 1.0}
