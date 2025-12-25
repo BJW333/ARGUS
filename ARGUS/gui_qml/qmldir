@@ -1,8 +1,0 @@
-module ArgusUI
-singleton ArgusTheme 1.0 ArgusTheme.qml
-LiquidGlassCard 1.0 LiquidGlassCard.qml
-BrainCanvas 1.0 BrainCanvas.qml
-ChatPanel 1.0 ChatPanel.qml
-
-FileBrowserPopup 1.0 FileBrowserPopup.qml
-FolderCard 1.0 FolderCard.qml
