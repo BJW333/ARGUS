@@ -1,0 +1,85 @@
+############################################
+# ARGUS - .gitignore
+############################################
+
+# --- Secrets / env (CRITICAL) ---
+.env
+.env.local
+.env.*.local
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- OS / Editor ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Logs / metrics ---
+*.log
+config_metrics/Metrics/
+config_metrics/conversation_history.json
+config_metrics/workspaces.json
+
+# --- Local databases / caches (runtime state, not source) ---
+*.sqlite
+*.sqlite3
+*.db
+web_scraping_cache.sqlite
+core/Argus_memory_storage/web_learning.db
+
+# --- Lock files ---
+*.lock
+core/Argus_memory_storage/*.lock
+data/training/*.lock
+
+# --- ARGUS memory (personal/runtime state) ---
+core/Argus_memory_storage/long_term.json
+core/Argus_memory_storage/short_term.json
+core/Argus_memory_storage/personality.json
+
+# --- Secrets / configs (forward defense) ---
+config_metrics/config.json
+
+# --- Training data (model is on HuggingFace, training data is heavy/private) ---
+data/training/knownfaces_for_recog/
+data/training/txtdatafiles/
+data/training/*.csv
+data/training/*.jsonl
+
+# NOTE: data/audio/*.mp3 NOT ignored — needed at runtime for timer sound
+
+# --- Generated outputs (user notes, workspace files) ---
+data/outputs/
+
+# --- Qt / QML build artifacts ---
+*.qmlc
+*.jsc
+*.cache
+.qmake.stash
+
+# --- Local runtime outputs ---
+*.pid
+*.tmp
+*.bak
+
+# --- Leftover dev files ---
+brain/nlp/intent copy.py
